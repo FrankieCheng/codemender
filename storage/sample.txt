@@ -1,0 +1,2 @@
+This is a benign sample file located inside the storage directory.
+CodeMender benchmark target file for safe reads.
